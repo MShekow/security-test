@@ -28,7 +28,7 @@ main:
 
 
 all-test:
-  # BUILD ./rust_server/+test
+  BUILD ./rust_server/+test
   BUILD ./go_server/+test
   BUILD ./python_server/+test
   BUILD ./node_server/+test
