@@ -9,5 +9,6 @@
     "labels": ["security", "dependencies"],
   },
   "baseBranches": ["main"],
-  "forkProcessing": "enabled"
+  "forkProcessing": "enabled",
+  "osvVulnerabilityAlerts": true
 }
